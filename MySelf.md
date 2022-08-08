@@ -4,7 +4,7 @@
 - 📫 You can send me DM on discord at (𝘤 𝘺 𝘳 𝘬 たまり水#8503) i work directly in my discord workspace server https://discord.gg/crJEcQvE
 
 
-:DDD 
+
 
 <!---
 Loyzahk/Loyzahk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
