@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Loyzahk,also knwown like Cyrq. My real name is Vlad im a simply boy 
-- 👀 I’m interested in learn some lenguages like Python,JS,C++ 
-- 🌱 I’m currently learning Python and JS
-- 📫 You can send me DM on discord at (𝘤 𝘺 𝘳 𝘬 たまり水#8503) i work directly in my discord workspace server https://discord.gg/crJEcQvE
-
-
+- 👀 I’m interested in found my own project, that is a FiveM Server
+- 🌱 I’m currently learning Lua
+- 📫 You can send me DM on discord at (𝘤 𝘺 𝘳 𝘬 たまり水#8503) i work directly in my discord workspace server https://discord.gg/XauFvTe4SJ
 
 
 <!---
